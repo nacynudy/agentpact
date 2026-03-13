@@ -1,0 +1,9 @@
+{
+  "network": "Base Mainnet",
+  "chainId": 8453,
+  "contract": "AgentPact",
+  "address": "0xa0641Ec7ab3062C67a9B4F7FDE6bF5c8FBCB2a33",
+  "deployer": "0x2D9f99Ae41682482a3Cb4a158B915861BD67519e",
+  "txHash": "0x99cccbd5b906c6d3719f4898b6d344804c8adae584ccdf9322056d7d5b457be9",
+  "blockExplorer": "https://basescan.org/address/0xa0641Ec7ab3062C67a9B4F7FDE6bF5c8FBCB2a33"
+}
